@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\bin\Debug\CloudDev_Lab.exe.config
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\bin\Debug\CloudDev_Lab.exe
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\bin\Debug\CloudDev_Lab.pdb
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\bin\Debug\AWSSDK.Core.dll
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\bin\Debug\AWSSDK.S3.dll
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\bin\Debug\AWSSDK.Core.pdb
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\bin\Debug\AWSSDK.Core.xml
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\bin\Debug\AWSSDK.S3.pdb
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\bin\Debug\AWSSDK.S3.xml
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\obj\Debug\CloudDev_Lab.csprojAssemblyReference.cache
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\obj\Debug\CloudDev_Lab.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\obj\Debug\CloudDev_Lab.csproj.CopyComplete
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\obj\Debug\CloudDev_Lab.exe
+C:\Users\David\Documents\Github\CloudDevelopment\Test#\CloudDev_Lab\obj\Debug\CloudDev_Lab.pdb
